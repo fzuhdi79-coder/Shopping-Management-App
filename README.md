@@ -153,10 +153,10 @@ service cloud.firestore {
 
 ---
 ## 📸 Screenshots
-| Login | <img src="assets/screenshots/login.jpeg" width="180"/>
-| Search | <img src="assets/screenshots/search.jpeg" width="180"/>
-| Inventory | <img src="assets/screenshots/inventory.jpeg" width="180"/>
-| Promo | <img src="assets/screenshots/voucher.jpeg" width="180"/>
+
+| Login | Search | Inventory | Promo |
+|:-----:|:------:|:---------:|:-----:|
+| <img src="assets/screenshots/login.jpeg" width="180"/> | <img src="assets/screenshots/search.jpeg" width="180"/> | <img src="assets/screenshots/inventory.jpeg" width="180"/> | <img src="assets/screenshots/voucher.jpeg" width="180"/> |
 
 ## 📋 Komponen Penilaian
 
